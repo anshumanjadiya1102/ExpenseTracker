@@ -79,6 +79,9 @@ Java 11+
 MIT – free to use and modify.
 PRs welcome! 🚀
 
+<div align=center>
+💰 A simple Java CLI app to track, view, and manage your daily expenses with local file storage.
+</div>
 
 
 
