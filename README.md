@@ -82,8 +82,3 @@ PRs welcome! 🚀
 <div align=center>
 💰 A simple Java CLI app to track, view, and manage your daily expenses with local file storage.
 </div>
-
-
-
-# 2) Run
-java ExpenseTracker
