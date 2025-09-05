@@ -19,6 +19,10 @@ Single-file Java, no frameworks, **persists to disk**, does **filters, reports, 
 - 📤 **Export** to CSV, 📥 **Import** from CSV
 - 🧰 Single-file Java 11+, **no external libraries**
 
+## Downloads
+<a href="https://yourwebsite.com/downloads/my-repo.zip" download>
+  Download My GitHub Project 
+</a>
 ---
 
 ## 🚀 Quick Start
